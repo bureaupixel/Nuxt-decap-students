@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Example - page 1
+title: Basic Example - page 
 tags:
   - Tag A
 imagegallery:
